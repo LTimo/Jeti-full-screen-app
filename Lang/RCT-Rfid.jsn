@@ -1,0 +1,48 @@
+{
+  "default":"en",
+  "en":{
+	"appName":"RFID-Battery",
+	"telLabel":"RFID-Battery",
+	"noPack":"RFID Not Used",
+	"noCurr":"No current!",
+	"emptyTag":"Empty or No Tag!",
+	"labelCommon":"Common Settings",
+	"sensorID":"Select RFID ID",
+	"sensorMah":"mAh Sensor",
+	"labelAlarm":"Alarm Settings Capacity",
+	"AlmVal":"Alarm Value (%)",
+	"selAudio":"Audiofile",
+	"annSw":"Announcement Switch",
+	"annCap":"Capacity"
+  },
+  "it":{
+	"appName":"RFID-Batteria",
+	"telLabel":"RFID-Batteria",
+	"noPack":"RFID Non usato",
+	"noCurr":"No currente!",
+	"emptyTag":"Tag vuoto o no!",
+	"labelCommon":"Impostazioni comuni",
+	"sensorID":"Seleziona RFID ID",
+	"sensorMah":"Sensore mAh",
+	"labelAlarm":"Impostazione allarme capacità",
+	"AlmVal":"Valore allarme (%)",
+	"selAudio":"Audiofile",
+	"annSw":"Annuncio Interruttore",
+	"annCap":"Capacita"
+  },
+  "de":{
+	"appName":"RFID-Battery",
+	"telLabel":"RFID-Battery",
+	"noPack":"RFID nicht verwendet",
+	"noCurr":"Kein Strom!",
+	"emptyTag":"Leer oder kein Tag!",
+	"labelCommon":"Gemeinsame Einstellungen",
+	"sensorID":"RFID ID wählen",
+	"sensorMah":"mAh Sensor",
+	"labelAlarm":"Alarm Einstellungen Kapazität",
+	"AlmVal":"Alarm Wert (%)",
+	"selAudio":"Audiodatei",
+	"annSw":"Switch Ansage",
+	"annCap":"Kapazität"
+  }
+ }
