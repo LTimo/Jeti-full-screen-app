@@ -1,7 +1,13 @@
+------------------------------------------------------------------------
+--[[Author: Timotej Labsky 
+Custom Jeti fulll screen app for Slick to read telemetry datat. Made for 
+Jeti ds-14
+]]----------------------------------------------------------------------
+
 collectgarbage()
 ----------------------------------------------------------------------
 -- Locals for the application
-local rfidVersion = "1"
+local rfidVersion = "2.0"
 local rfidId, rfidParam, rfidSens, mahId, mahParam, mahSens
 --temp1
 local tempId, tempParam, tempSens
